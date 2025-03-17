@@ -7,9 +7,15 @@ This project analyzes e-commerce delivery operations across multiple platforms, 
 Python 🐍 (Pandas, Matplotlib, Seaborn for data analysis & visualization)
 **Workflow**
 Visualization & Reporting
+
 Power BI Dashboards to track:
+
 🚚 Delivery performance
+
 ⭐ Service ratings
+
 📦 Order distribution
+
 🔄 Refund trends
+
 Python Matplotlib/Seaborn for additional visual insights.
